@@ -1,6 +1,6 @@
-<mxfile host="app.diagrams.net" modified="2020-03-29T15:24:48.643Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 YaBrowser/20.3.0.1223 Yowser/2.5 Safari/537.36" etag="gOMpyEtlgNaFjBvKP3TZ" version="12.9.3" type="github">
+<mxfile host="app.diagrams.net" modified="2020-03-29T15:25:49.978Z" agent="Mozilla/5.0 (Windows NT 10.0; WOW64) AppleWebKit/537.36 (KHTML, like Gecko) Chrome/80.0.3987.122 YaBrowser/20.3.0.1223 Yowser/2.5 Safari/537.36" etag="ni7r_JG8D8HcC6t2VpFt" version="12.9.3" type="github">
   <diagram id="04NFNXWc2lqI_j0TzdUz" name="Страница 1">
-    <mxGraphModel dx="1976" dy="1848" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#333333" math="0" shadow="0">
+    <mxGraphModel dx="1976" dy="1848" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="827" pageHeight="1169" background="#000000" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
@@ -258,7 +258,7 @@
           <mxGeometry relative="1" as="geometry" />
         </mxCell>
         <mxCell id="EEbd4EJKothGvuQdx9ed-109" value="Доп. информация для режима &quot;такси&quot;" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;labelBackgroundColor=none;strokeColor=#19FFBA;fontColor=#FFFFFF;fillColor=none;fontStyle=1;fontFamily=Times New Roman;fontSize=15;" parent="1" vertex="1">
-          <mxGeometry x="-280" y="270" width="120" height="60" as="geometry" />
+          <mxGeometry x="-280" y="260" width="120" height="80" as="geometry" />
         </mxCell>
         <mxCell id="EEbd4EJKothGvuQdx9ed-123" value="Примерная стоимость" style="rounded=1;whiteSpace=wrap;html=1;strokeWidth=2;labelBackgroundColor=none;strokeColor=#19FFBA;fontColor=#FFFFFF;fillColor=none;fontStyle=1;fontFamily=Times New Roman;fontSize=15;" parent="1" vertex="1">
           <mxGeometry x="-440" y="285" width="120" height="30" as="geometry" />
